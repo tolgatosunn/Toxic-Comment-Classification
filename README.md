@@ -45,8 +45,8 @@ python -m spacy download en_core_web_sm
 
 ## Usage
 
-Load the dataset and preprocess the data using the normalization functions.
-Conduct exploratory data analysis to understand the underlying patterns.
-Configure and train the machine learning and deep learning models.
-Evaluate the models using the provided metrics and adjust parameters as necessary.
+- Load the dataset and preprocess the data using the normalization functions.
+- Conduct exploratory data analysis to understand the underlying patterns.
+- Configure and train the machine learning and deep learning models.
+- Evaluate the models using the provided metrics and adjust parameters as necessary.
 
