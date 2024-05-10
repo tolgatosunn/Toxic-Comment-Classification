@@ -41,7 +41,7 @@ You can install the necessary libraries using pip:
 pip install numpy pandas scikit-learn spacy tensorflow keras matplotlib seaborn sentence_transformers scikit-optimize
 
 python -m spacy download en_core_web_sm
-```bash
+```
 
 ## Usage
 
