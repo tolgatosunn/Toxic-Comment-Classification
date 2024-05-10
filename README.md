@@ -10,14 +10,25 @@ Discussing important topics online can be challenging due to the threat of abuse
 
 - **Text Normalization and Preprocessing:** Utilizing spaCy for robust text cleaning and preparation.
 - **Exploratory Data Analysis:** Employing bar charts and correlation matrices to understand data characteristics and distributions.
-- **Machine Learning Model Training:** Leveraging scikit-learn for training multiple models.
+- **Feature Extraction:**
+  - **TF-IDF Vectorization:** Transforming text data into a format suitable for model training.
+  - **BERT Embeddings:** Leveraging pre-trained BERT models for high-quality feature extraction from text data.
+- **Model Training and Evaluation:**
+  - **Support Vector Machine (SVM):** For creating baseline models and understanding feature impacts.
+  - **Logistic Regression (LR):** To evaluate linear relationships and perform classification.
 - **Hyperparameter Optimization:** Using Bayesian optimization to fine-tune model parameters for optimal performance.
 - **Deep Learning Implementation:** Applying TensorFlow and Keras to develop and train advanced model architectures.
+  - **Bidirectional LSTM (BiLSTM):** Utilizing deep learning to capture sequence information for better prediction accuracy.
 - **Performance Evaluation:** Assessing models using metrics such as accuracy, F1 score, precision, and recall.
 
 ## Disclaimer
 
 The dataset used in this competition contains text that may be considered profane, vulgar, or offensive.
+
+## Data Access
+
+The dataset required for this project is hosted on Kaggle and can be accessed through the following competition page: [Jigsaw Toxic Comment Classification Challenge](https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/data). You will need to log in or register with Kaggle to download the dataset.
+
 
 ## Installation
 
